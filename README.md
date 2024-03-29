@@ -95,7 +95,7 @@ If you want to test the network : Run "**CUDA_VISIBLE_DEVICES=0 python test_fusi
 
 ## Contact
 
-If you have any questions, please feel free to contact me. E-mail: [msdky_deborah@163.com](mailto:msdky_deborah@163.com)
+If you have any questions, please feel free to contact me. E-mail: [msduky_deborah@163.com](mailto:msdky_deborah@163.com)
 
 ## Citation
 
